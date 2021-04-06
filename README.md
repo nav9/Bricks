@@ -1,3 +1,5 @@
+![Alt text](images/bricks.jpg?raw=true "jump up 2")
+
 Bricks
 ======
 
